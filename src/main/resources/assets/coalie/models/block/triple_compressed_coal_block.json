@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "coalie:block/triple_compressed_coal_block"
+  }
+}

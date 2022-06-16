@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 2000,
+  "experience": 0.4,
+  "group": "coalie",
+  "ingredient": {
+    "item": "coalie:quadruple_compressed_coal_block"
+  },
+  "result": "minecraft:diamond"
+}

@@ -1,0 +1,11 @@
+{
+  "itemGroup.coalie.coalie": "Coalie Mod",
+  "block.coalie.compressed_coal_block": "Compressed Coal Block",
+  "tooltip.coalie.compressed_coal_block": "A Block of Compressed Coal",
+  "block.coalie.double_compressed_coal_block": "Double Compressed Coal Block",
+  "tooltip.coalie.double_compressed_coal_block": "A Block of Double Compressed Coal",
+  "block.coalie.triple_compressed_coal_block": "Triple Compressed Coal Block",
+  "tooltip.coalie.triple_compressed_coal_block": "A Block of Triple Compressed Coal",
+  "block.coalie.quadruple_compressed_coal_block": "Quadruple Compressed Coal Block",
+  "tooltip.coalie.quadruple_compressed_coal_block": "A Block of Quadruple Compressed Coal"
+ }
